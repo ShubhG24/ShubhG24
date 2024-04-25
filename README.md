@@ -32,7 +32,7 @@ Seeking Internship Opportunities in Software Development and Computer Architectu
 - 🌱 I’m currently learning Software Development. 
 - 👯 I’m looking to collaborate on projects in the field of ML, Software and Cloud Computing.
 - 😄 Pronouns: He/Him
-- 📫 Contact: <a href="shub01gupta@gmail.com"> Email </a>
+- 📫 Contact: <a href="mailto:shub01gupta@gmail.com"> Email </a>
 
 ---
 
