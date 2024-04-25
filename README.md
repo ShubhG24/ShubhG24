@@ -66,3 +66,5 @@ Seeking Internship Opportunities in Software Development and Computer Architectu
 
 ### :fire: My Stats :
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShubhG24&theme=highcontrast)](https://git.io/streak-stats)
+
