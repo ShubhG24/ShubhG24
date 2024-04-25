@@ -1,8 +1,4 @@
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZ6a3poaDB5am4zaXhsN2ZmcGZobzc1anoyMWtndWNqY3V4dWF5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="300"/>
-</div>
-  <br></br>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/shubham-gupta2411/">
