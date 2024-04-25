@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**ShubhG24/ShubhG24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shubham Gupta, a Masters student in Electrical and Computer Engineering (ECE) at Georgia Tech, specializing in Computer Systems and Software (CSS).
 
-Here are some ideas to get you started:
+Seeking Summer Internship Opportunities in Software Develooment and Computer Architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning Software Development. 
+- 👯 I’m looking to collaborate on projects in the field of ML, Software and Cloud Computing.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Can memorise upto 12 digit numbers in seconds.
+- 📫 Contact: Email
+- 🖥 Leetcode Profile
+
+
+
+
