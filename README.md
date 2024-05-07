@@ -5,7 +5,7 @@
 </h1>
 I'm Shubham Gupta, a Masters student in Electrical and Computer Engineering (ECE) at Georgia Tech, specializing in Computer Systems and Software (CSS).
 <br></br>
-Seeking Internship Opportunities in Software Development and Computer Architecture.
+Seeking Internship Opportunities in Software Development/Computer Architecture.
 <br></br>
 
 
