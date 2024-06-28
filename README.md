@@ -34,7 +34,7 @@ Seeking Internship Opportunities in Software Development/Computer Architecture.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-
+/*
 <div>
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-original.svg?plain=1" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
@@ -57,5 +57,6 @@ Seeking Internship Opportunities in Software Development/Computer Architecture.
   <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="openGL" alt="openGl" width="40" height="40"/>
 
 </div>
+*/
 
 
