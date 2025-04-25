@@ -5,7 +5,7 @@
 </h1>
 I'm Shubham Gupta, a Masters student in Electrical and Computer Engineering (ECE) at Georgia Tech, specializing in Computer Systems and Software (CSS).
 
-<br>
+<br> </br>
 
 
 - 👯 I’m looking to collaborate on projects in the field of ML, SWE, and Cloud Computing.
