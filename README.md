@@ -3,9 +3,9 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-I'm Shubham Gupta, a Masters student in Electrical and Computer Engineering (ECE) from Georgia Tech, specializing in Computer Systems and Software (CSS).
+I'm Shubham Gupta, a Masters student in Electrical and Computer Engineering (ECE) at Georgia Tech, specializing in Computer Systems and Software (CSS).
 
-
+<br>
 
 
 - 👯 I’m looking to collaborate on projects in the field of ML, SWE, and Cloud Computing.
