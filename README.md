@@ -7,7 +7,7 @@ I'm Shubham Gupta, a Masters graduate student in Electrical and Computer Enginee
 
 
 
-- 🌱 I’m currently learning Software Development. 
+
 - 👯 I’m looking to collaborate on projects in the field of ML, SWE, and Cloud Computing.
 - 📫 Contact: <a href="mailto:shub01gupta@gmail.com"> Email </a>
 
