@@ -5,12 +5,13 @@
 </h1>
 I'm Shubham Gupta, a recent Master's graduate in Electrical and Computer Engineering (ECE) from Georgia Tech, with a focus in Computer Systems and Software.
 
-<br> </br>
+<br>
 
-💡 Interests: Software Engineering, Machine Learning and Cloud Computing
-🤝 Open to Collaborations: I'm actively looking to collaborate on projects in ML, SWE, and Cloud Infrastructure
-📬 Contact: <a href="mailto:shub01gupta@gmail.com"> Email </a>
+💡 **Interests**: Software Engineering, Machine Learning, and Cloud Computing  
+🤝 **Open to Collaborations**: I'm actively looking to contribute to projects in **ML**, **SWE**, and **Cloud Infrastructure**  
+📬 **Contact**: <a href="mailto:shub01gupta@gmail.com">shub01gupta@gmail.com</a>
 
+<br>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/shubham-gupta2411/">
