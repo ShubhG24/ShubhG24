@@ -3,14 +3,13 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-I'm Shubham Gupta, a Masters student in Electrical and Computer Engineering (ECE) at Georgia Tech, specializing in Computer Systems and Software (CSS).
+I'm Shubham Gupta, a recent Master's graduate in Electrical and Computer Engineering (ECE) from Georgia Tech, with a focus in Computer Systems and Software.
 
 <br> </br>
 
-
-- 👯 I’m looking to collaborate on projects in the field of ML, SWE, and Cloud Computing.
-- 📫 Contact: <a href="mailto:shub01gupta@gmail.com"> Email </a>
-
+💡 Interests: Software Engineering, Machine Learning and Cloud Computing
+🤝 Open to Collaborations: I'm actively looking to collaborate on projects in ML, SWE, and Cloud Infrastructure
+📬 Contact: <a href="mailto:shub01gupta@gmail.com"> Email </a>
 
 
 <div id="badges" align="center">
