@@ -17,9 +17,6 @@ I'm Shubham Gupta, a recent Master's graduate in Electrical and Computer Enginee
   <a href="https://www.linkedin.com/in/shubham-gupta2411/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://leetcode.com/shub01gupta/">
-    <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
-  </a>
   <br></br>
   <img src="https://komarev.com/ghpvc/?username=ShubhG24&style=flat-square&color=blue" alt=""/>
 
